@@ -11,4 +11,4 @@ When the program has been terminated it will create an html file that displays w
 Green rectangles indicate when an object was present and when the mouse cursor hovers of the rectangle a pop will show the exact date and time 
 through when the object moved through the camera.
 
-![Bokeh Display](Screenshots/screenshot3.png)<br/>
+![Bokeh Display](Screenshots/ScreenshotBokeh.png)<br/>
